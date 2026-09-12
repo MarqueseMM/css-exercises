@@ -55,12 +55,6 @@ a {
   text-decoration: none;
 }
 
-.cards {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 48px;
-}
-
 /* original below */
 
 .card {
